@@ -1,10 +1,10 @@
 {
-  "version": "0.0.3",
-  "build_time": "20.10.2026 11:32",
+  "version": "0.0.4",
+  "build_time": "20.10.2026 11:44",
   "min_required_version": "0.0.1",
-  "download_url": "https://github.com/mavinokta/medlax-releases/releases/download/v0.0.3/medlax.exe",
-  "sha256": "d23dfc371bd8f37f67f10ab6baf40a188e05e40c23adc455c8d7654e51c2b420",
-  "signature": "98348c92158589e70e3e6025dbd1c6ed99b17077a241031ae4eafdc2c3b1b5372e188160f8582417f8df85b043d7ad8aa34c5a8bb864b62b3f5e68f54b028a0e",
+  "download_url": "https://github.com/mavinokta/medlax-releases/releases/download/v0.0.4/medlax.exe",
+  "sha256": "d9a40397c15d1eba94ad1a2ef436989b4af8efcf77d3a09a03e0754d453db5d7",
+  "signature": "230ff20796ae25012e18054716ecc9e37754505bed9aaebf789103b03da9ac45de24019c214cf1ebfe9559e0d69630ad6e3239ed7391ddcc85908be375514306",
   "mandatory": false,
   "changelog": [
     "Medlax v0.0.3 sürümü.",
