@@ -1,0 +1,13 @@
+{
+  "version": "0.0.5",
+  "build_time": "20.10.2026 11:57",
+  "min_required_version": "0.0.1",
+  "download_url": "https://github.com/mavinokta/medlax-releases/releases/download/v0.0.5/medlax.exe",
+  "sha256": "592ff9e8e7fc9ce2c625878ca2948272bca4f8c8a35ca73eca2b54025c3c6bb5",
+  "signature": "4212a1cc93a4ecaab4fadd470d68602680287019b9aee2eacd8d263b54b4cafdc2532c5937d3f1a9ed90a28502f679d16348abe11c51e05bca738712b7f7860c",
+  "mandatory": false,
+  "changelog": [
+    "Medlax v0.0.3 sürümü.",
+    "Dashboard ilk açılış veri senkronizasyonu ve otomatik yenileme mekanizması eklendi."
+  ]
+}
