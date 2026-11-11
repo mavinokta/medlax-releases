@@ -1,13 +1,13 @@
 {
-  "version": "0.0.19",
-  "build_time": "03.11.2026 16:35",
+  "version": "0.0.20",
+  "build_time": "11.11.2026 18:09",
   "min_required_version": "0.0.1",
-  "download_url": "https://github.com/mavinokta/medlax-releases/releases/download/v0.0.19/medlax.exe",
-  "sha256": "0e2a1bda557b5323c74ecbf4ecac8058610048d7949043621f07f4f241a7296e",
-  "signature": "a9c1da07968ce601ce30ecf377ae5345cc6d3174d8d176e34db440c282637d7e0ed9617be4b59ae379bebd16542472a1aef90491105ce81efd2eac622497a707",
+  "download_url": "https://github.com/mavinokta/medlax-releases/releases/download/v0.0.20/medlax.exe",
+  "sha256": "c991a22078acf3fde97f13bac657652c500e4c1171db15456a4276aba711d3b5",
+  "signature": "950f336607f9923e08fb950b76e56fd0214ef297ebcb12fd5fb79fa59cee611755e6ad56a300bc16f43d2c9bec871685542d43aedf15e903fcb2a961e4b2d908",
   "mandatory": false,
   "changelog": [
-    "Medlax v0.0.19 resmi sürüm güncellemesi.",
+    "Medlax v0.0.20 resmi sürüm güncellemesi.",
     "Performans, güvenlik ve kararlılık iyileştirmeleri."
   ]
 }
